@@ -54,7 +54,7 @@ The project demonstrates how machine learning models can exhibit bias based on a
 
 1. **Clone the repository**: 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/bnvaidya20/bias_mitigation_credit_scores.git
    ```
 2. **Install Dependencies**:
    ```bash
